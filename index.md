@@ -1,7 +1,7 @@
 # Hope you're having a good day
 
 ## Some things about me
-* I'm currently doing a Bsc at the University of Auckland, majoring in Statistics.
+* I'm currently doing a BSc at the University of Auckland, majoring in Statistics.
 * I'm **terrible** with planning in advance and am unpredictable so I might change majors in the future, or I migh not. Who knows?
 * I like telling people about my interests, so I **will** force my incoherent babblings on the nearest person.
 
