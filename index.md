@@ -6,7 +6,7 @@
 * I like telling people about my interests, so I **will** force my incoherent babblings on the nearest person.
 
 ## The meme you've been waiting for:
-![mymeme.png]
+![](mymeme.png)
 
 ### An explanation for the meme.
 1. I like exercising :muscle:.
