@@ -1,4 +1,5 @@
 # Hope you're having a good day
+![](https://i0.wp.com/brightestyoungthings.com/wp-content/uploads/2016/02/150754-bears-waving-gif-imgur-tumblr-jfGo.gif?fit=410%2C220&quality=100&ssl=1)
 
 ## Some things about me
 * I'm currently doing a BSc at the University of Auckland, majoring in Statistics.
@@ -13,8 +14,10 @@
 2.  I like telling people about my interests.
 3.  This meme format is fairly typical and is also a good way to let as many people as possible know that I like working out.
 4.  I find it hard to get started in winter and summer though, since:
-  * lying in bed is so much easier than going into the cold to work out
-  * I get sweaty working out in summer :rage:
+> * lying in bed is so much easier than going into the cold to work out
+> * I get sweaty working out in summer :rage:
  
  Thank you for visiting :)
- ![](https://i.gifer.com/4V0f.gif)
+ 
+ ![](https://c.tenor.com/aMTgGRQyqBUAAAAC/animal-crossing-tom-nook.gif)
+ 
