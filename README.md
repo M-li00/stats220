@@ -2,6 +2,8 @@
 
 This is a repo for my first assignment of STATS 220 :D
 
+![](https://media1.giphy.com/media/h8ISB2nUVITEWjVgGo/200.gif)
+
 If you're interested in further projects that I'll be doing:
 * This is the link to where you can find my github profile: ![My Github Profile](https://github.com/888atlas)
 
