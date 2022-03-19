@@ -10,6 +10,54 @@
 ## The meme you've been waiting for:
 ![](mymeme.png)
 
+__The code for the meme:__
+```
+library(magick)
+
+##code for panel row 1 text
+panel1 <- image_blank(width = 500,
+                      height = 340,
+                      color = "#000000") %>%
+  image_annotate(text = "working out in\nspring/autumn",
+                 color = "#FFFFFF",
+                 size = 40,
+                 font = "Impact",
+                 gravity = "center")
+
+##row 2 text
+panel2 <- image_blank(width = 500,
+                          height = 310,
+                          color = "#000000") %>%
+  image_annotate(text = "working out in\nwinter/summer",
+                 color = "#FFFFFF",
+                 size = 40,
+                 font = "Impact",
+                 gravity = "center")
+
+##images
+happy_runner <- image_read("https://media.istockphoto.com/photos/happy-female-runner-jogging-in-the-morning-in-nature-picture-id1142900322?k=20&m=1142900322&s=170667a&w=0&h=ZMKkYqci_krlhBKRLFOLnEHK9sBA_xleNtsIW3APp_c=")
+
+not_happy <- image_read("https://happymag.tv/wp-content/uploads/2021/08/F-14.jpg") %>%
+  image_scale(510)
+
+#row1 image with text
+
+row1<- c(happy_runner, panel1) %>%
+  image_append()
+
+
+#row2 image with text
+
+row2 <- c(not_happy, panel2) %>%
+  image_append()
+
+##incorporated
+meme <- c(row1, row2) %>%
+  image_append(stack = T)
+
+image_write(meme, "mymeme.png")
+```
+
 ### An explanation for the meme.
 1. I like exercising :muscle:.
 2.  I like telling people about my interests.
